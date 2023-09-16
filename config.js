@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Telegram',
-			icon: 'telegram',
+			icon: 'twitter',
 			link: 'https://web.telegram.org',
 		},
 		{
